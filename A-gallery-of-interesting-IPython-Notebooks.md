@@ -67,6 +67,8 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 
 ### Statistics, Machine Learning and Data Science
 
+* ["ISP": Introduction to Statistics with Python](https://github.com/thomas-haslwanter/statsintro_python), a collection of notebooks accompanying the [book of the same name](http://www.springer.com/us/book/9783319283159), by [Thomas Haslwanter](http://work.thaslwanter.at).
+
 * [AM207: Monte Carlo Methods, Stochastic Optimization](http://am207.github.io/2016/): a complete course by Verena Kaynig-Fittkau and Pavlos Protopapas from Harvard, with all lecture materials and homework sets as notebooks.
 
 * [An introduction to Bayesian inference](http://nbviewer.ipython.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Chapter1.ipynb), this is just chapter 1 in an ongoing book titled [Probabilistic Programming and Bayesian Methods for Hackers Using Python and PyMC](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers), by [Cameron Davidson-Pilon](http://camdp.com/).
