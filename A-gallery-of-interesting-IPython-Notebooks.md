@@ -355,6 +355,8 @@ prettyplotlib, Stack Overflow, and seaborn](http://nbviewer.ipython.org/gist/msu
 
 * [Visualizing complex-valued functions with Matplotlib and Mayavi](http://nbviewer.ipython.org/github/empet/Math/blob/master/DomainColoring.ipynb), by [Emilia Petrisor](https://github.com/empet).
 
+* [bqplot](https://github.com/bloomberg/bqplot) is a d3-based interactive visualization library built entirely on top of that `ipywidgets` infrastructure. Checkout the [pythonic recreation](https://github.com/bloomberg/bqplot/blob/master/examples/Applications/Wealth%20of%20Nations.ipynb) of Hans Rosling's [Wealth of Nations](http://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen?language=en).
+
 * [A D3 Viewer for Matplotlib Visualizations](http://jakevdp.github.io/blog/2013/12/19/a-d3-viewer-for-matplotlib/), different from above by not depending on Plot.ly account.
 
 * [Bokeh is an interactive web visualization library for Python](http://nbviewer.ipython.org/github/damianavila/bokeh_overview/blob/master/Bokeh%20Overview.ipynb?create=1) (and other languages). It provides d3-like novel graphics, over large datasets, all without requiring any knowledge of Javascript. It also has a Matplotlib compatibility layer.
