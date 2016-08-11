@@ -76,6 +76,9 @@ The Kernel Zero, is of course [IPython](https://ipython.org), which you can get 
 |[C](https://github.com/brendan-rius/jupyter-c-kernel)|Jupyter|C|`gcc`||||
 |[TaQL](https://github.com/tammojan/taql-jupyter) | Jupyter | TaQL | [python-casacore](https://github.com/casacore/python-casacore) | [TaQL tutorial](http://taql.astron.nl) | |
 |[Coconut](http://coconut-lang.org/)|Jupyter|Coconut|||||
+|[SPARQL](https://github.com/paulovn/sparql-kernel)|Jupyter 4|Python 2.7 or >=3.4|[rdflib](https://github.com/RDFLib/rdflib), [SPARQLWrapper](https://rdflib.github.io/sparqlwrapper/)|[Examples](http://nbviewer.jupyter.org/github/paulovn/sparql-kernel/tree/master/examples/)| Optional [GraphViz](http://www.graphviz.org/) dependency|
+|[AIML chatbot](https://github.com/paulovn/aiml-chatbot-kernel)|Jupyter 4|Python 2.7|[pyAIML](https://github.com/creatorrr/pyAIML)|[Examples](http://nbviewer.jupyter.org/github/paulovn/aiml-chatbot-kernel/tree/master/examples/)||
+
 Many kernels are available for installation on [PyPI](https://pypi.python.org/pypi?:action=browse&c=586).
 
 
