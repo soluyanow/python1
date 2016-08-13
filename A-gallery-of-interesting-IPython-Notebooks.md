@@ -1,4 +1,4 @@
-This page is a curated collection of IPython notebooks that are notable for some reason.  Feel free to add new content here, but please try to only include links to notebooks that include interesting visual or technical content; this should *not* simply be a dump of a Google search on every ipynb file out there.
+This page is a curated collection of Jupyter/IPython notebooks that are notable for some reason (the page was created before the Jupyter name transition, and renaming the page would break all links).  Feel free to add new content here, but please try to only include links to notebooks that include interesting visual or technical content; this should *not* simply be a dump of a Google search on every ipynb file out there.
 
 **Important contribution instructions:** If you add new content, please ensure that for any notebook you link to, the link is to the rendered version using [nbviewer](http://nbviewer.ipython.org), rather than the raw file.  Simply paste the notebook URL in the nbviewer box and copy the resulting URL of the rendered version.  This will make it much easier for visitors to be able to immediately access the new content.
 
@@ -68,6 +68,8 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 ### Statistics, Machine Learning and Data Science
 
 * ["ISP": Introduction to Statistics with Python](https://github.com/thomas-haslwanter/statsintro_python), a collection of notebooks accompanying the [book of the same name](http://www.springer.com/us/book/9783319283159), by [Thomas Haslwanter](http://work.thaslwanter.at).
+
+* [Notebooks for the exercises in Andrew Ng's online ML course, Spark and TensorFlow](https://github.com/jdwittenauer/ipython-notebooks), as well as extra material on other tools from the scipy stack, by [John Wittenauer](https://github.com/jdwittenauer).
 
 * [AM207: Monte Carlo Methods, Stochastic Optimization](http://am207.github.io/2016/): a complete course by Verena Kaynig-Fittkau and Pavlos Protopapas from Harvard, with all lecture materials and homework sets as notebooks.
 
