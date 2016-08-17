@@ -67,6 +67,8 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 
 ### Statistics, Machine Learning and Data Science
 
+* [Python Data Science Handbook Supplemental Materials](https://github.com/jakevdp/PythonDataScienceHandbook), a collection of notebooks by [Jake VanderPlas](http://vanderplas.com) to accompany the book.
+
 * ["ISP": Introduction to Statistics with Python](https://github.com/thomas-haslwanter/statsintro_python), a collection of notebooks accompanying the [book of the same name](http://www.springer.com/us/book/9783319283159), by [Thomas Haslwanter](http://work.thaslwanter.at).
 
 * [Notebooks for the exercises in Andrew Ng's online ML course, Spark and TensorFlow](https://github.com/jdwittenauer/ipython-notebooks), as well as extra material on other tools from the scipy stack, by [John Wittenauer](https://github.com/jdwittenauer).
