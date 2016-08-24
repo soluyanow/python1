@@ -593,6 +593,8 @@ doi: http://dx.doi.org/10.1101/012831. [Notebook to generate results in the pape
 
 * [St. Louis County Segregation Analysis](https://github.com/BuzzFeedNews/2014-08-st-louis-county-segregation) , analysis for the article [The Ferguson Area Is Even More Segregated Than You Probably Guessed](http://www.buzzfeed.com/jsvine/the-ferguson-area-is-even-more-segregated-than-you-thought) by [Jeremy Singer-Vine](https://twitter.com/jsvine).
 
+* [Size of thesis and dissertations in Quebec](https://github.com/jhroy/theses/blob/master/theses.ipynb), by [Jean-Hugues Roy](http://jhroy.ca) (in French).
+
 ## Whimsical notebooks
 
 * [XKCD-styled plots created with Matplotlib](http://nbviewer.ipython.org/url/jakevdp.github.com/downloads/notebooks/XKCD_plots.ipynb). Here is the [blog post version](http://jakevdp.github.com/blog/2012/10/07/xkcd-style-plots-in-matplotlib/) with discussion.  By Jake van der Plas.
