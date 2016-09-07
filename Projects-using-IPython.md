@@ -78,13 +78,15 @@ Scientific computing projects
     research on high-energy physics. See for example [this
     post](http://root.cern.ch/drupal/content/ipython-notebooks-and-root-0).
 
--   [SAGE](http://www.sagemath.org/), a system for algebraic number
-    theory and arithmetic geometry, uses IPython for its interactive
-    command-line interface.
+-   [SageMath](http://www.sagemath.org/), also known as the Sage mathematics
+    software system, uses IPython for its interactive command-line interface
+    and offers both the Jupyter notebook and the Sage notebook for its
+    notebook interface. Note that the Sage notebook was an inspiration for
+    the IPython notebook which became the Jupyter notebook.
 
 -   [Singular](http://www.singular.uni-kl.de/), another computer algebra
     system, also offers an IPython interface (Singular is also
-    accessible as a SAGE subsystem).
+    accessible as a SageMath subsystem).
 
 -   The [Pymerase](http://pymerase.sourceforge.net/) project for
     microarray gene expression databases, exposes an IPython shell in
