@@ -111,6 +111,20 @@ To install :
 %install_ext https://raw.github.com/mgaitan/fortran_magic/master/fortranmagic.py
 ```
 
+## clrmagic (C# cell magic for IPython kernel)
+
+Compile and import everything from a C# (CLR) code cell, using [pythonnet](https://github.com/pythonnet/pythonnet).
+
+* [Homepage](https://pypi.python.org/pypi/clrmagic/)
+* [Tutorial](https://github.com/denfromufa/clrmagic/blob/master/README.md)
+
+To install :
+
+```
+pip install clrmagic
+%reload_ext clrmagic
+```
+
 ## ferret
 
 ferret, the Data Visualisation and Analysis software from NOAA/PMEL, can now be integrated into notebooks using the `ipython-ferretmagic extension`. Install instructions and examples are included in notebooks on the GitHub page.
