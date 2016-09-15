@@ -1,11 +1,11 @@
-=Integrating IPython with pythonnet python.exe=
+=Using pythonnet from IPython=
 
 
-Update 2016 - all notes below are OBSOLETE. Install pythonnet from PYPI: `pip install pythonnet` and `import clr` in IPython.
+Update 2016 - all notes below are OBSOLETE. Install pythonnet from PYPI: `pip install pythonnet` and `import clr` in IPython to use .NET assemblies in IPython.
 
 http://pythonnet.github.io/readme.html
 
-OBSOLETE
+===OBSOLETE===
 
 These are the steps I used to create a working instance of IPython that launches the python.exe from pythonnet and allows import of the clr module. With the clr module imported, one is able to access .NET assemblies within Python.
 
