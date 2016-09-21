@@ -727,3 +727,13 @@ Installation:
 ```
 %install_ext https://raw.github.com/cpcloud/ipython-autotime/master/autotime.py
 ```
+
+## Py_D3
+
+D3 magic for IPython (targeted at Jupyter).
+
+Installation:
+
+```
+pip install py_d3
+```
