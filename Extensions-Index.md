@@ -732,6 +732,8 @@ Installation:
 
 D3 magic for IPython (targeted at Jupyter).
 
+* [Homepage](https://github.com/ResidentMario/py_d3)
+
 Installation:
 
 ```
