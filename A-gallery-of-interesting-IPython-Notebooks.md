@@ -168,6 +168,10 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 
 * [python4oceanographers](https://ocefpaf.github.io/python4oceanographers/), a blog demonstrating analyses in physical oceanography from [resource-demanding numerical computations with functions in compiled languages](https://ocefpaf.github.io/python4oceanographers/blog/2015/10/05/isosurfaces/) to specialized [tidal analysis](https://ocefpaf.github.io/python4oceanographers/blog/2015/02/16/utide/) to [visualization of various geo data using fancy things like interactive maps](https://ocefpaf.github.io/python4oceanographers/blog/2015/07/13/interactive_geo/).
 
+* [Machinalis](http://www.machinalis.com/) has a [public repo](https://github.com/machinalis/satimg) with material support for geospatial-data processing related blog posts. It includes notebooks about [Object Based Image Analysis](http://nbviewer.jupyter.org/github/machinalis/satimg/blob/master/object_based_image_analysis.ipynb) and [irrigation circles detection](http://nbviewer.jupyter.org/github/machinalis/satimg/blob/master/Searching%20for%20aliens.ipynb).
+
+
+
 ### Linguistics and Text Mining
 
 * [Workshop on text analysis](http://nbviewer.ipython.org/github/nealcaren/workshop_2014/tree/master/notebooks/) by [Neal Caren](http://nealcaren.web.unc.edu).
