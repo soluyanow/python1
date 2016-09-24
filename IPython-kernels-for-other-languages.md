@@ -37,6 +37,8 @@ The Kernel Zero, is of course [IPython](https://ipython.org), which you can get 
 |[Bash](https://github.com/takluyver/bash_kernel)|IPython >= 3|bash|||Wrapper|
 |[PowerShell](https://github.com/vors/jupyter-powershell)|IPython >= 3|Windows|||Wrapper, Based on Bash Kernel|
 |[CloJupyter](https://github.com/roryk/clojupyter)|Jupyter|Clojure >= 1.7||||
+|[CLJ-Jupyter](https://github.com/achesnais/clj-jupyter)|Jupyter|Clojure ||||
+|[jupyter-kernel-jsr223](https://github.com/fiber-space/jupyter-kernel-jsr223)|Jupyter>=4.0|Clojure 1.8|[clojure-jrs223](https://github.com/ato/clojure-jsr223), Java>=7||Java based JSR223 compliant||
 |[Hy Kernel](https://github.com/bollwyvl/hy_kernel/)|Jupyter|Hy||[Tutorial](http://nbviewer.ipython.org/github/bollwyvl/hy_kernel/blob/master/notebooks/Tutorial.ipynb)||
 |[Redis Kernel](https://github.com/supercoderz/redis_kernel)|IPython >= 3|redis|||Wrapper|
 |[jove](https://www.npmjs.com/package/jove)||io.js||||
@@ -72,7 +74,7 @@ The Kernel Zero, is of course [IPython](https://ipython.org), which you can get 
 |[Tcl](https://github.com/ryanpepper/tcl_kernel)|Jupyter|Tcl 8.5|||Based on Bash Kernel|
 |[J](https://github.com/martin-saurer/jkernel)|Jupyter|J 804||[Examples](https://github.com/martin-saurer/jkernel/tree/master/examples)||
 |[Jython](https://github.com/fiber-space/jupyter-kernel-jsr223)|Jupyter>=4.0|Jython>=2.7.0|Java>=7||Java based JSR223 compliant||
-|[Clojure](https://github.com/fiber-space/jupyter-kernel-jsr223)|Jupyter>=4.0|Clojure 1.8|[clojure-jrs223](https://github.com/ato/clojure-jsr223), Java>=7||Java based JSR223 compliant||
+
 |[C](https://github.com/brendan-rius/jupyter-c-kernel)|Jupyter|C|`gcc`||||
 |[TaQL](https://github.com/tammojan/taql-jupyter) | Jupyter | TaQL | [python-casacore](https://github.com/casacore/python-casacore) | [TaQL tutorial](http://taql.astron.nl) | |
 |[Coconut](http://coconut-lang.org/)|Jupyter|Coconut|||||
