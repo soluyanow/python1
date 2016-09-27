@@ -68,7 +68,7 @@ The Kernel Zero, is of course [IPython](https://ipython.org), which you can get 
 |[Calysto LC3](https://github.com/Calysto/calysto_lc3)|||||Assembly Language for the [Little Computer 3](https://en.wikipedia.org/wiki/LC-3)|
 |[Java 9 Kernel](https://github.com/Bachmann1234/java9_kernel)||Java >= 9||[demo docker container](https://github.com/moisei/java9_kernel/tree/docker/docker)
 |[Yacas](https://github.com/grzegorzmazur/yacas_kernel)||YACAS||||
-|[IJython](https://github.com/suvarchal/IJython)||Jython 2.5||||
+|[IJython](https://github.com/suvarchal/IJython)||Jython 2.7||||
 |[ROOT](https://github.com/root-mirror/root/tree/master/bindings/pyroot/JupyROOT)|Jupyter|C++/python|ROOT >= 6.05|||
 |[Gnuplot Kernel](https://github.com/has2k1/gnuplot_kernel)||Gnuplot||[Example](https://github.com/has2k1/gnuplot_kernel/tree/master/examples)|MetaKernel|
 |[Tcl](https://github.com/ryanpepper/tcl_kernel)|Jupyter|Tcl 8.5|||Based on Bash Kernel|
