@@ -45,7 +45,7 @@ The Kernel Zero, is of course [IPython](https://ipython.org), which you can get 
 |[jp-babel](https://www.npmjs.com/package/jp-babel)|Jupyter|Babel||||
 |[ICalico](http://calicoproject.org/ICalico)|IPython >= 2|*multiple*||[Index](http://nbviewer.jupyter.org/urls/bitbucket.org/ipre/calico/raw/master/notebooks/Index.ipynb)||
 |[IMathics](http://nbviewer.ipython.org/gist/sn6uv/8381447)||Mathics||||
-|[IWolfram](https://github.com/mmatera/iwolfram)||Wolfram Mathematica| Wolfram Mathematica(R)|||
+|[IWolfram](https://github.com/mmatera/iwolfram)||Wolfram Mathematica| Wolfram Mathematica(R), Metakernel|||
 |[Lua Kernel](https://github.com/neomantra/lua_ipython_kernel)||Lua||||
 |[IPyLua](https://github.com/pakozm/IPyLua)||Lua|||Fork of *Lua Kernel*|
 |[Calysto Scheme](https://github.com/Calysto/calysto_scheme)||Scheme|||MetaKernel|
