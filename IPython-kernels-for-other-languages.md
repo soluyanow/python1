@@ -75,7 +75,6 @@ The Kernel Zero, is of course [IPython](https://ipython.org), which you can get 
 |[Tcl](https://github.com/ryanpepper/tcl_kernel)|Jupyter|Tcl 8.5|||Based on Bash Kernel|
 |[J](https://github.com/martin-saurer/jkernel)|Jupyter|J 804||[Examples](https://github.com/martin-saurer/jkernel/tree/master/examples)||
 |[Jython](https://github.com/fiber-space/jupyter-kernel-jsr223)|Jupyter>=4.0|Jython>=2.7.0|Java>=7||Java based JSR223 compliant||
-
 |[C](https://github.com/brendan-rius/jupyter-c-kernel)|Jupyter|C|`gcc`||||
 |[TaQL](https://github.com/tammojan/taql-jupyter) | Jupyter | TaQL | [python-casacore](https://github.com/casacore/python-casacore) | [TaQL tutorial](http://taql.astron.nl) | |
 |[Coconut](http://coconut-lang.org/)|Jupyter|Coconut|||||
