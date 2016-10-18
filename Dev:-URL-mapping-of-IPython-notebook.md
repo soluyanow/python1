@@ -15,7 +15,7 @@ Miscellaneous
 | ```*``` | /api/notebooks | Deprecated: redirect to /api/contents |
 | ```GET``` | /api/nbconvert | |
 
-Notebook contents API.
+## Notebook and file contents API
 
 | HTTP verb | URL | Action |
 |:---:|:---:|:---|
@@ -31,7 +31,7 @@ Notebook contents API.
 | ```POST``` | /api/contents<br>/\<path\>/\<file\><br>/checkpoints/\<checkpoint_id\> | post restores a file from a checkpoint. |
 | ```DELETE``` | /api/contents<br>/\<path\>/\<file\><br>/checkpoints/\<checkpoint_id\> | delete clears a checkpoint for a given file. |
 
-Kernel API
+## Kernel API
 
 | HTTP verb | URI | Action |
 |:---:|:---:|:---|
@@ -42,14 +42,14 @@ Kernel API
 | ```POST``` | /api/kernels<br>/\<kernel_id\>/\<action\> | Perform action on kernel with given kernel id. Actions can be "interrupt" or "restart". |
 | ```WS``` | /api/kernels<br>/\<kernel_id\>/channels | Websocket stream |
 
-Kernelspecs API
+## Kernelspecs API
 
 | HTTP verb | URI | Action |
 |:---:|:---:|:---|
 | ```GET``` | /api/kernelspecs | Return a spec model of all available kernels. |
 | ```GET``` | /api/kernelspecs<br>/\<kernel_name\> | Return a spec model of available kernels with given kernel name. |
 
-Sessions API
+## Sessions API
 
 | HTTP verb | URL | Action |
 |:---:|:---:|:---|
@@ -59,7 +59,7 @@ Sessions API
 | ```PATCH``` | /api/sessions<br>/\<session_id\> | Change notebook name or path of session with given session id. |
 | ```DELETE``` | /api/sessions<br>/\<session_id\> | Delete active session with given session id. |
 
-Clusters API
+## Clusters API
 
 | HTTP verb | URL | Action |
 |:---:|:---:|:---|
@@ -67,7 +67,7 @@ Clusters API
 | ```GET``` | /api/clusters<br>/\<cluster_id\> | Return model of given cluster. |
 | ```POST``` | /api/clusters<br>/\<cluster_id\>/\<action\> | Perform action with given clusters. Valid actions are "start" or "stop" |
 
-## Old Architecture ##
+### Old Architecture
 
 This chart shows the web-services in the single directory IPython notebook. 
 
