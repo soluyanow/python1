@@ -80,6 +80,7 @@ The Kernel Zero, is of course [IPython](https://ipython.org), which you can get 
 |[SPARQL](https://github.com/paulovn/sparql-kernel)|Jupyter 4|Python 2.7 or >=3.4|[rdflib](https://github.com/RDFLib/rdflib), [SPARQLWrapper](https://rdflib.github.io/sparqlwrapper/)|[Examples](http://nbviewer.jupyter.org/github/paulovn/sparql-kernel/tree/master/examples/)| Optional [GraphViz](http://www.graphviz.org/) dependency|
 |[AIML chatbot](https://github.com/paulovn/aiml-chatbot-kernel)|Jupyter 4|Python 2.7|[pyAIML](https://github.com/creatorrr/pyAIML)|[Examples](http://nbviewer.jupyter.org/github/paulovn/aiml-chatbot-kernel/tree/master/examples/)||
 |[IArm](https://github.com/DeepHorizons/iarm)|Jupyter 4|ARMv6 THUMB||[Examples](http://nbviewer.jupyter.org/github/DeepHorizons/iarm/tree/master/docs/examples/)|Based off of the ARM Cortex M0+ CPU|
+|[SoS](https://github.com/BoPeng/SoS)|Script of Scripts|Python >=3.4|||||
 
 Many kernels are available for installation on [PyPI](https://pypi.python.org/pypi?:action=browse&c=586).
 
