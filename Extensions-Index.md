@@ -368,7 +368,7 @@ pip install iplantuml
 
 ##ipy_magics
 
-Cell magics for generating PostScript 2D graphics (using Ghostscript) and RenderMan 3D graphics (using Aqsis).
+Cell magics for generating PostScript 2D graphics (using Ghostscript) and RenderMan 3D graphics (using Aqsis), and also audio via Csound.
 
 [Repo](https://github.com/ldo/ipy_magics)
 
