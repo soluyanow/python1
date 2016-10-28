@@ -136,7 +136,7 @@ To install:
 ```text
 pip install ferretmagic
 ```
-In python notebook,
+In ipython notebooks,
 ```
 %load_ext ferretmagic
 ```
