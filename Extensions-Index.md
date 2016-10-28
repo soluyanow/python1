@@ -127,7 +127,7 @@ pip install clrmagic
 
 ## ferret
 
-ferret, the Data Visualisation and Analysis software from NOAA/PMEL, can now be integrated into notebooks using the `ipython ferretmagic extension`. Install instructions and examples are included in notebooks on the GitHub page.
+ferret, the Data Visualisation and Analysis software from NOAA/PMEL, can now be integrated into notebooks using the _ipython ferretmagic extension_. Install instructions and examples are included in notebooks on the GitHub page.
 
 [Homepage](https://github.com/PBrockmann/ipython_ferretmagic)
 
@@ -135,6 +135,10 @@ To install:
 
 ```text
 pip install ferretmagic
+```
+In python notebook,
+```
+%load_ext ferretmagic
 ```
 
 ## ipyBibtex
