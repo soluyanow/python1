@@ -325,6 +325,8 @@ Joe McCarthy](http://interrelativity.com/joe).
 
 ### Physics, Chemistry and Biology
 
+* [Writing A Genome Assembler with blasr and (I)Python](http://nbviewer.jupyter.org/github/cschin/Write_A_Genome_Assembler_With_IPython/blob/master/Write_An_Assembler.ipynb), by [Jason Chin](Jason Chin).
+
 * [Multibody dynamics and control with Python](http://www.moorepants.info/blog/npendulum.html) and the [notebook file](http://nbviewer.ipython.org/github/gilbertgede/idetc-2013-paper/blob/master/n-pendulum-control.ipynb) by Jason K. Moore.
 
 * [Manipulation and display of chemical structures](http://nbviewer.ipython.org/gist/4316433), by [Greg Landrum](https://github.com/greglandrum), using rdkit.
