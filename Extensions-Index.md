@@ -1,4 +1,4 @@
-Extensions you can install for IPython are listed here. To create a new extension, please refer to the [extension docs](http://ipython.org/ipython-doc/dev/config/extensions/index.html).
+Extensions you can install for IPython are listed here. To create a new extension, please refer to the [extension docs](http://ipython.readthedocs.io/en/stable/config/extensions/index.html).
 
 ## ActiveState Code Recipes magics
 
