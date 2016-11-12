@@ -25,6 +25,17 @@ diagrams within an IPython notebook.
 
 See the [example notebook](http://nbviewer.ipython.org/github/jrjohansson/ipython-asymptote/blob/master/examples/asymptote_magic_examples.ipynb) for installation instruction and example of how to use this magic extension.
 
+## AsyncIO Magic
+An extension for IPython that help to run AsyncIO code in your interactive session.
+
+* [Homepage](https://github.com/Gr1N/asyncio-ipython-magic)
+
+Installation:
+
+```
+%install_ext https://raw.githubusercontent.com/Gr1N/asyncio-ipython-magic/master/asynciomagic.py
+```
+
 ## base16-ipython-matplotlibrc
 Enables matplotlib themes that match base16 [notebook themes](https://github.com/nsonnad/base16-ipython-notebook).
 
