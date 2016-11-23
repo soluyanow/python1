@@ -82,6 +82,7 @@ The Kernel Zero, is of course [IPython](https://ipython.org), which you can get 
 |[IArm](https://github.com/DeepHorizons/iarm)|Jupyter 4|ARMv6 THUMB||[Examples](http://nbviewer.jupyter.org/github/DeepHorizons/iarm/tree/master/docs/examples/)|Based off of the ARM Cortex M0+ CPU|
 |[SoS](https://github.com/BoPeng/SoS)|Jupyter 4|Python >=3.4||[Examples](https://github.com/BoPeng/SOS/tree/master/examples)|Workflow system, Multi-Kernel support|
 |[jupyter-nodejs](https://github.com/notablemind/jupyter-nodejs)|Jupyter, iPython 3.x|NodeJS, Babel, Clojurescript||[Examples](http://nbviewer.jupyter.org/gist/jaredly/404a36306fdee6a1737a)|
+|[Pike](https://github.com/kevinior/jupyter-pike-kernel)|IPython >= 3|Pike >= 7.8|||Wrapper, Based on Bash Kernel|
 
 Many kernels are available for installation on [PyPI](https://pypi.python.org/pypi?:action=browse&c=586).
 
