@@ -601,6 +601,8 @@ doi: http://dx.doi.org/10.1101/012831. [Notebook to generate results in the pape
 
 1. [Challenges and opportunities in understanding microbial communities with metagenome assembly](http://journal.frontiersin.org/article/10.3389/fmicb.2015.00678/abstract), [accompanied by IPython Notebook tutorial](http://nbviewer.ipython.org/github/germs-lab/frontiers-review-2015/blob/master/frontiers-nb-2015.ipynb), by [Adina Howe](http://germslab.org) and  Patrick Chain.
 
+1. [Structure of a shear-line polar low](http://onlinelibrary.wiley.com/doi/10.1002/qj.2911/abstract) (2016) by [Sergeev, D. E.](https://dennissergeev.github.io/), [Renfrew, I. A.](https://archive.uea.ac.uk/~e046/home.htm), Spengler, T. and Dorling, S. R. *Q.J.R. Meteorol. Soc.* doi:10.1002/qj.2911. Accompanied by [Notebooks to generate the published figures](https://github.com/dennissergeev/structure-of-a-shear-line-polar-low-notebooks).
+
 ## Data-driven journalism
 
 * [The Need for Openness in Data Journalism](http://nbviewer.ipython.org/github/brianckeegan/Bechdel/blob/master/Bechdel_test.ipynb), by [Brian Keegan](http://www.brianckeegan.com).
