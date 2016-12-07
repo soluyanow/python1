@@ -67,6 +67,8 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 
 * [Code Katas in Python](https://github.com/gudnm/codekatas), a collection of algorithmic and data structure exercises covering search and sorting algorithms, stacks, queues, linked lists, graphs, backtracking and greedy problems.
 
+* [Jupyter notebook activities for Part IA of the computing course (Michaelmas Term) in the Engineering Tripos at University of Cambridge](https://notebooks.azure.com/library/CUED-IA-Computing-Michaelmas), by [Garth Wells](http://www3.eng.cam.ac.uk/~gnw20/).
+
 ### Statistics, Machine Learning and Data Science
 
 * [Python Data Science Handbook Supplemental Materials](https://github.com/jakevdp/PythonDataScienceHandbook), a collection of notebooks by [Jake VanderPlas](http://vanderplas.com) to accompany the book.
@@ -107,7 +109,7 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 
 * [Desperately Seeking Silver](http://nbviewer.ipython.org/github/cs109/content/blob/master/HW2.ipynb), one of the homework sets for Harvard's [CS 109 Data Science course](http://cs109.org).
 
-* [IPython Notebooks for 'An Introduction to Statistical Learning with Applications in R'](https://github.com/JWarmenhoven/ISLR-python), Python code for a selection of tables, figures and LAB sections from the book by James, Witten, Hastie, Tibshirani (2013).
+* The classic ['An Introduction to Statistical Learning with Applications in R'](http://www-bcf.usc.edu/~gareth/ISL) by James, Witten, Hastie, Tibshirani (2013), has not one but *two* collections of notebooks to accompany the book with Python (instead of the book's default R examples). One by [Jordi Warmenhoven](https://github.com/JWarmenhoven/ISLR-python) and one by [Matt Caudill](https://github.com/mscaudill/IntroStatLearn).
 
 * [Python Notebooks for StatLearning Exercises](https://github.com/sujitpal/statlearning-notebooks), Python implementations of the R labs for the [StatLearning: Statistical Learning](https://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about) online course from Stanford University taught by Profs Trevor Hastie and Rob Tibshirani.
 
@@ -632,6 +634,8 @@ doi: http://dx.doi.org/10.1101/012831. [Notebook to generate results in the pape
 * [Porque Charles Xavier debe cambiar a Cerebro por Python](http://nbviewer.ipython.org/github/mshopper/aurora/blob/master/Aurora.ipynb), a study in data and gender in the Marvel comics universe, by [Mai Giménez](http://twitter.com/adahopper) and [Angela Rivera](http://twitter.com/ghilbrae).
 
 * [Functional Geometry: a deconstruction of the MC Escher woodcut Square Limit](http://nbviewer.ipython.org/github/shashi/ijulia-notebooks/blob/master/funcgeo/Functional%20Geometry.ipynb), an IJulia notebook by [Shashi Gowda](http://shashi.github.io/).
+
+* [Solving physical puzzles with a Jupyter Noteboook](https://notebooks.azure.com/library/puzzles/html/Snake%20Puzzle%20Solver.ipynb).
 
 ## Videos of IPython being used in the wild
 
