@@ -29,7 +29,7 @@ The Kernel Zero, is of course [IPython](https://ipython.org), which you can get 
 |[IForth](https://github.com/jdfreder/iforth)|IPython >= 3|Forth||||
 |[IPerl](https://metacpan.org/release/Devel-IPerl)||Perl 5||||
 |[IPerl6](https://github.com/timo/iperl6kernel)||Perl 6||||
-|[IPHP](https://github.com/dawehner/ipython-php)|IPython >= 2|PHP >= 5.4|composer|||
+|[IPHP](https://github.com/dawehner/ipython-php)|IPython >= 2|PHP >= 5.4|composer||DEPRECATED, use Jupyter-PHP|
 |[Jupyter-PHP](https://github.com/Litipk/Jupyter-PHP)|Jupyter 4.0|PHP >= 5.5.9|composer|||
 |[IOctave](https://github.com/calysto/octave_kernel)|Jupyter|Octave||[Example](http://nbviewer.jupyter.org/github/Calysto/octave_kernel/blob/master/octave_kernel.ipynb)|MetaKernel|
 |[IScilab](https://github.com/calysto/scilab_kernel)|Jupyter|Scilab||[Example](http://nbviewer.jupyter.org/github/Calysto/scilab_kernel/blob/master/scilab_kernel.ipynb)|MetaKernel|
