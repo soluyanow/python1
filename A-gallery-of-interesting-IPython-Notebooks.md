@@ -34,6 +34,8 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
   * [Haskell](#haskell)
   * [Ruby](#ruby)
   * [Perl](#perl)
+  * [F#](#F#)
+  * [C#](#C#)
 1. [Miscellaneous topics about doing various things *with* the Notebook itself](#miscellaneous-topics-about-doing-various-things-with-the-notebook-itself)
 1. [Reproducible academic publications](#reproducible-academic-publications)
 1. [Other publications using the Notebook](#other-publications-and-conference-abstracts-that-explicitly-use-the-notebook)
@@ -525,6 +527,14 @@ The interactive plotting library [Nyaplot](https://github.com/domitry/nyaplot) h
 ### Perl
 
 * An example showcasing full use of the [display protocol](http://nbviewer.ipython.org/github/zmughal/zmughal-iperl-notebooks/blob/master/IPerl-demos/20150209_IPerl_display_demo.ipynb) with the IPerl kernel.
+
+### F&#35;
+
+* [F# for Jupyter Notebooks](https://github.com/fsprojects/IfSharp)
+
+### C&#35;
+
+* [Xamarin Workbooks](https://github.com/xamarin/Workbooks) Create a rich C# workbook for Android, iOS, Mac, WPF, or Console, and get instant live results as you learn these APIs.
 
 ## Miscellaneous topics about doing various things *with* the Notebook itself
 
