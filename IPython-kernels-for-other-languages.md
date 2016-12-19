@@ -43,7 +43,7 @@ The Kernel Zero, is of course [IPython](https://ipython.org), which you can get 
 |[Redis Kernel](https://github.com/supercoderz/redis_kernel)|IPython >= 3|redis|||Wrapper|
 |[jove](https://www.npmjs.com/package/jove)||io.js||||
 |[jp-babel](https://www.npmjs.com/package/jp-babel)|Jupyter|Babel||||
-|[ICalico](http://calicoproject.org/ICalico)|IPython >= 2|*multiple*||[Index](http://nbviewer.jupyter.org/urls/bitbucket.org/ipre/calico/raw/master/notebooks/Index.ipynb)||
+|[ICalico](http://wiki.roboteducation.org/ICalico)|IPython >= 2|*multiple*||[Index](http://nbviewer.jupyter.org/urls/bitbucket.org/ipre/calico/raw/master/notebooks/Index.ipynb)||
 |[IMathics](http://nbviewer.ipython.org/gist/sn6uv/8381447)||Mathics||||
 |[IWolfram](https://github.com/mmatera/iwolfram)||Wolfram Mathematica| Wolfram Mathematica(R), Metakernel||MetaKernel|
 |[Lua Kernel](https://github.com/neomantra/lua_ipython_kernel)||Lua||||
