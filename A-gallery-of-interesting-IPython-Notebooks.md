@@ -332,7 +332,7 @@ Joe McCarthy](http://interrelativity.com/joe).
 * [How Likely Would You Give A Five-Star Review on Yelp? -- Getting Your Hands Dirty with scikit-learn]
 (http://nbviewer.jupyter.org/github/xun-tang/pyladies_jupyter_demo/blob/master/Predict_Review_Five_Star_Rating.ipynb), by [Xun Tang] (https://www.linkedin.com/in/xuntang). Complimentary [slides](https://docs.google.com/presentation/d/1bfrXePztSa-yTP8n_qTdd9zazNS_tyJs1mG3fYItznI/edit).  
 
-* [Geodemographic Segmentation Model] (http://nbviewer.jupyter.org/github/filipacsr/DataScience/blob/master/GeodemographicSegmentationModel.ipynb), by Filipa Rodrigues (https://www.linkedin.com/in/filipacrodrigues/)
+* [Geodemographic Segmentation Model] (http://nbviewer.jupyter.org/github/filipacsr/DataScience/blob/master/GeodemographicSegmentationModel.ipynb), by [Filipa Rodrigues](https://www.linkedin.com/in/filipacrodrigues/)
 
 ### Physics, Chemistry and Biology
 
