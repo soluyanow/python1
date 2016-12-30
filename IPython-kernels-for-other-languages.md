@@ -85,6 +85,7 @@ The Kernel Zero, is of course [IPython](https://ipython.org), which you can get 
 |[Pike](https://github.com/kevinior/jupyter-pike-kernel)|IPython >= 3|Pike >= 7.8|||Wrapper, Based on Bash Kernel|
 |[ITypeScript](https://github.com/nearbydelta/itypescript)||Typescript >= 2.0|Node.js >= 0.10.0|||
 |[matlab_kernel](https://github.com/anntzer/matlab_kernel)|Jupyter|MATLAB >= 2016b||||
+|[jupyter-kotlin](https://github.com/ligee/kotlin-jupyter)|Jupyter|Kotlin 1.1-M04 EAP|Java >= 8|||
 
 Many kernels are available for installation on [PyPI](https://pypi.python.org/pypi?:action=browse&c=586).
 
