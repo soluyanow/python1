@@ -1,0 +1,1 @@
+[News Categorization using Multinomial Naive Bayes](http://nbviewer.jupyter.org/github/andressotov/News-Categorization-MNB/blob/master/News%20Categorization%20MNB.ipynb)
