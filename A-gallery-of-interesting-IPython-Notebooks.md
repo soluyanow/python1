@@ -132,7 +132,7 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 
 * [Pandas .head() to .tail()](https://github.com/TomAugspurger/PyDataSeattle), an in-depth tutorial on Pandas by [Tom Augspurger](https://github.com/TomAugspurger).
 
-* [Apache SINGA tutorial](http://nbviewer.jupyter.org/github/apache/incubator-singa/blob/master/doc/notebook/index.ipynb). A Python tutorial for deep learning with SINGA.
+* [Apache SINGA tutorial](http://nbviewer.jupyter.org/github/apache/incubator-singa/blob/master/doc/en/docs/notebook/index.ipynb). A Python tutorial for deep learning with SINGA.
 
 ### Mathematics, Physics, Chemistry, Biology
 
