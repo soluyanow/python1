@@ -162,6 +162,8 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 
 * [Learning Population Genetics in an RNA world](http://nbviewer.jupyter.org/github/gocarli/RNA-Popgen-Notebook/blob/master/Population_Genetics.ipynb) is an interactive notebook that explains basic population genetics tools and techniques by building an in silico evolutionary model of RNA molecules.
 
+* [An open RNA-Seq data analysis pipeline tutorial with an example of reprocessing data from a recent Zika virus study](http://nbviewer.jupyter.org/github/maayanlab/Zika-RNAseq-Pipeline/blob/master/Zika.ipynb). This notebook fully reproduces the research published in [this paper](https://f1000research.com/articles/5-1574/v1). The notebook uses mostly python but includes some bash and R as well and is relevant for researchers in bioinformatics and public health.  
+
 ### Earth Science and Geo-Spatial data
 
 * [EarthPy](http://earthpy.org), a collection of IPython notebooks with a focus on Earth Sciences, from [whale tracks](http://earthpy.org/analyzing-whale-tracks.html) to the [flow of the Amazon](http://earthpy.org/earthpy-basemap-amazon.html).
