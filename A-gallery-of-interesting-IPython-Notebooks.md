@@ -1,0 +1,1 @@
+Now at [a gallery of interesting Jupyter and IPython notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-Jupyter-and-IPython-Notebooks).
