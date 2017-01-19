@@ -754,3 +754,19 @@ Installation:
 ```
 pip install py_d3
 ```
+
+## Mocodo
+
+IPython magic extension to use Mocodo in a Jupyter Notebook.
+
+Mocodo is an open-source tool for designing and teaching relational databases. It takes as an input a textual description of both entities and associations of an entity-relationship diagram (ERD). It outputs a vectorial drawing in SVG and a relational schema in various formats (SQL, LaTeX, Markdown, etc.).
+
+- [Homepage](https://github.com/laowantong/mocodo/)
+- [Documentation](https://rawgit.com/laowantong/mocodo/master/doc/fr_refman.html)
+- [Mocodo online](http://mocodo.net/)
+
+Installation
+
+```
+pip install mocodo_magic
+```
