@@ -1,5 +1,11 @@
 Extensions you can install for IPython are listed here. To create a new extension, please refer to the [extension docs](http://ipython.readthedocs.io/en/stable/config/extensions/index.html).
 
+The `install_ext` magic is deprecated, and has been removed from IPython. 
+Extensions should be published as Python packages. 
+Mentions of `install_ext` have been replaced in the rest of this document by
+`<deprecated command>` if no other installation mechanism exists contact the
+extension author. 
+
 ## ActiveState Code Recipes magics
 
 Allows querying [ActiveState Code Recipes](http://code.activestate.com/recipes/langs/python)
@@ -9,7 +15,7 @@ Allows querying [ActiveState Code Recipes](http://code.activestate.com/recipes/l
 Installation:
 
 ```
-%install_ext https://raw.github.com/debjan/ipython-recipes-magic/master/recipes.py
+%<deprecated command> https://raw.github.com/debjan/ipython-recipes-magic/master/recipes.py
 ```
 
 
@@ -33,7 +39,7 @@ An extension for IPython that help to run AsyncIO code in your interactive sessi
 Installation:
 
 ```
-%install_ext https://raw.githubusercontent.com/Gr1N/asyncio-ipython-magic/master/asynciomagic.py
+%<deprecated command> https://raw.githubusercontent.com/Gr1N/asyncio-ipython-magic/master/asynciomagic.py
 ```
 
 ## base16-ipython-matplotlibrc
@@ -56,7 +62,7 @@ Some notebooks:
 To install:
 
 ```
-%install_ext https://raw.github.com/kikocorreoso/brythonmagic/master/brythonmagic.py
+%<deprecated command> https://raw.github.com/kikocorreoso/brythonmagic/master/brythonmagic.py
 ```
 
 ## Cassandra (CQL3) integration
@@ -81,7 +87,7 @@ Tools for quickly importing and exporting data from CSV files.
 
 Installation:
 ```
-%install_ext https://raw.githubusercontent.com/FrankSalad/ipython-csvmagic/master/csvtools.py
+%<deprecated command> https://raw.githubusercontent.com/FrankSalad/ipython-csvmagic/master/csvtools.py
 ```
 
 ## Django ORM magic
@@ -93,7 +99,7 @@ Define your django models in a cell and use them on the fly. Let the magic do th
 Installation:
 
 ```
-%install_ext https://raw.github.com/mgaitan/django-orm-magic/master/django_orm_magic.py
+%<deprecated command> https://raw.github.com/mgaitan/django-orm-magic/master/django_orm_magic.py
 ```
 
 ## ipythonPexpect magic
@@ -105,7 +111,7 @@ A magic that allows IPython notebooks to interface with other programs via Pexpe
 To install :
 
 ```
-%install_ext https://cdcvs.fnal.gov/redmine/projects/ipython_ext/repository/revisions/master/raw/ipythonPexpect.py
+%<deprecated command> https://cdcvs.fnal.gov/redmine/projects/ipython_ext/repository/revisions/master/raw/ipythonPexpect.py
 ```
 
 
@@ -119,7 +125,7 @@ Compile and import everything from a Fortran code cell, using f2py.
 To install :
 
 ```
-%install_ext https://raw.github.com/mgaitan/fortran_magic/master/fortranmagic.py
+%<deprecated command> https://raw.github.com/mgaitan/fortran_magic/master/fortranmagic.py
 ```
 
 ## clrmagic (C# cell magic for IPython kernel)
@@ -163,7 +169,7 @@ With this extension you can use LATEX style references within IPython (Notebook)
 To install:
 
 ```text
-%install_ext https://gist.github.com/z-m-k/6080008/raw/7611cb869b5ff162d00e95856054b887b0b0d095/ipyBibtex.py
+%<deprecated command> https://gist.github.com/z-m-k/6080008/raw/7611cb869b5ff162d00e95856054b887b0b0d095/ipyBibtex.py
 ```
 
 ## physics
@@ -175,7 +181,7 @@ Enables calculations involving units, such as `(5 m/s) * (3 s)`. It also defines
 To install:
 
 ```text
-    %install_ext https://bitbucket.org/birkenfeld/ipython-physics/raw/default/physics.py
+    %<deprecated command> https://bitbucket.org/birkenfeld/ipython-physics/raw/default/physics.py
 ```
 
 Note: In the latest version, quantities with uncertainties are supported if the
@@ -191,7 +197,7 @@ With the `%%dot` cell magic, you can write graphiz dot language in a cell.
 To install:
 
 ```text
-  %install_ext https://raw.github.com/tkf/ipython-hierarchymagic/master/hierarchymagic.py
+  %<deprecated command> https://raw.github.com/tkf/ipython-hierarchymagic/master/hierarchymagic.py
 ```
 
 ## `%importfile` magic
@@ -207,7 +213,7 @@ and `spam/__init__.py`, you would want import `module.py` as
 To install:
 
 ```text
-  %install_ext https://raw.github.com/tkf/ipython-importfilemagic/master/importfilemagic.py
+  %<deprecated command> https://raw.github.com/tkf/ipython-importfilemagic/master/importfilemagic.py
 ```
 
 Usage:
@@ -234,7 +240,7 @@ The Bitey extension adds a `%%bitey` cell magic for automatically compiling C (o
 To install:
 
 ```text
-    %install_ext https://gist.githubusercontent.com/bfroehle/3458310/raw/biteymagic.py
+    %<deprecated command> https://gist.githubusercontent.com/bfroehle/3458310/raw/biteymagic.py
 ```
 ## Mathematica
 
@@ -262,7 +268,7 @@ Provides magics for embedding [IDL](http://www.exelisvis.com/ProductsServices/ID
 To install:
 
 ```text
-%install_ext https://raw.github.com/ebellm/ipython-idlmagic/master/idlmagic.py
+%<deprecated command> https://raw.github.com/ebellm/ipython-idlmagic/master/idlmagic.py
 ```
 ## pep8
 
@@ -273,7 +279,7 @@ Allows to check for the pep8 styleguide using the cellmagic `%%pep8`.
 To install:
 
 ```text
-    %install_ext https://raw.githubusercontent.com/SiggyF/notebooks/master/pep8_magic.py
+    %<deprecated command> https://raw.githubusercontent.com/SiggyF/notebooks/master/pep8_magic.py
 ```
 
 An example is provided [here](http://nbviewer.ipython.org/github/SiggyF/notebooks/blob/master/styleguide.ipynb).
@@ -286,7 +292,7 @@ Executes shell command and returns stdout as a file like object (pipe). This wil
 To install:
 
 ```text
-    %install_ext https://gist.github.com/kpalin/ec5264445dbb56616d6e/raw/94fe58912752ca2e4b0b20d38674ee8dea69d003/pxmagic.py
+    %<deprecated command> https://gist.github.com/kpalin/ec5264445dbb56616d6e/raw/94fe58912752ca2e4b0b20d38674ee8dea69d003/pxmagic.py
 ```
 
 An example is provided [here](https://gist.github.com/kpalin/ec5264445dbb56616d6e).
@@ -302,7 +308,7 @@ Enables conversion of simple expressions to a nice Tex Representation.
 To install:
 
 ```text
-    %install_ext https://raw.githubusercontent.com/BekeJ/py2tex/master/py2tex.py
+    %<deprecated command> https://raw.githubusercontent.com/BekeJ/py2tex/master/py2tex.py
 ```
 
 An example is provided [here](http://nbviewer.ipython.org/urls/gist.github.com/raw/4040388/ee224a8e0875fad241cea4492b4408f1f72a1d8d/Example_py2tex.ipynb).
@@ -354,7 +360,7 @@ A numpy extension for IPython. Autocomplete recarray.
 To install:
 
 ```text
-    %install_ext https://raw.github.com/piti118/inumpy/master/inumpy.py
+    %<deprecated command> https://raw.github.com/piti118/inumpy/master/inumpy.py
 ```
 
 ## iorient
@@ -412,7 +418,7 @@ IPython magics to run SQL and see the result in table format.
 [Homepage](https://github.com/tkf/ipython-sqlitemagic)
 
 ```text
-%install_ext https://raw.github.com/tkf/ipython-sqlitemagic/master/sqlitemagic.py
+%<deprecated command> https://raw.github.com/tkf/ipython-sqlitemagic/master/sqlitemagic.py
 ```
 
 
@@ -423,7 +429,7 @@ Run and debug doctest in IPython.
 [Homepage](https://github.com/tkf/ipython-doctestmagic)
 
 ```text
-%install_ext https://raw.github.com/tkf/ipython-doctestmagic/master/doctestmagic.py
+%<deprecated command> https://raw.github.com/tkf/ipython-doctestmagic/master/doctestmagic.py
 ```
 
 
@@ -445,7 +451,7 @@ the Homepage.
 [Installation Details](https://github.com/pavoljuhas/smart-change-directory#installation-as-ipython-extension)
 
 ```text
-%install_ext https://raw.github.com/pavoljuhas/smart-change-directory/master/ipython/ipy_scd.py
+%<deprecated command> https://raw.github.com/pavoljuhas/smart-change-directory/master/ipython/ipy_scd.py
 ```
 
 
@@ -460,7 +466,7 @@ the Homepage.
 [Homepage](https://github.com/tkf/ipython-tempmagic)
 
 ```text
-%install_ext https://raw.github.com/tkf/ipython-tempmagic/master/tempmagic.py
+%<deprecated command> https://raw.github.com/tkf/ipython-tempmagic/master/tempmagic.py
 ```
 
 
@@ -472,7 +478,7 @@ The extension uses blockdiag modules from http://blockdiag.com
 [Homepage](https://bitbucket.org/vladf/ipython-diags)
 
 ```text
-%install_ext https://bitbucket.org/vladf/ipython-diags/raw/default/diagmagic.py
+%<deprecated command> https://bitbucket.org/vladf/ipython-diags/raw/default/diagmagic.py
 ```
 
 ## sql
@@ -520,7 +526,7 @@ The AnyBody extension adds an `%%anybody` cell magic to run AnyScript macros dir
 
 Usage: See this [IPython notebook](http://nbviewer.ipython.org/github/melund/anybodymagic/blob/master/demo_anybodymagic.ipynb?create=1)
 
-To install: ``` %install_ext https://raw.github.com/melund/anybodymagic/master/anybodymagic.py ```
+To install: ``` %<deprecated command> https://raw.github.com/melund/anybodymagic/master/anybodymagic.py ```
 
 ## Module version information: `%version_information`
 
@@ -541,7 +547,7 @@ The section numbers are automatically updated every time any cell changes type (
 
 To install:
 
-    %install_ext https://github.com/dpsanders/ipython_extensions/tree/master/section_numbering
+    %<deprecated command> https://github.com/dpsanders/ipython_extensions/tree/master/section_numbering
 
 To use:
 
@@ -557,7 +563,7 @@ To use:
 
 To install:
 
-    %install_ext https://raw.github.com/mksenzov/ipython_zip_extensions/master/zip_extensions.py
+    %<deprecated command> https://raw.github.com/mksenzov/ipython_zip_extensions/master/zip_extensions.py
 
 If for example you want to load/start using extension called `grasp` (described above) without using pip do:
 
@@ -575,7 +581,7 @@ These magic functions just pipe various input formats to `dot` using the standar
 
 To install:
 
-    %install_ext https://raw.github.com/cjdrake/ipython-magic/master/gvmagic.py
+    %<deprecated command> https://raw.github.com/cjdrake/ipython-magic/master/gvmagic.py
 
 To load:
 
@@ -670,7 +676,7 @@ ipython db.py shell extension
 To install:
 
 ```text
-%install_ext https://raw.githubusercontent.com/dongweiming/idb/master/idb.py
+%<deprecated command> https://raw.githubusercontent.com/dongweiming/idb/master/idb.py
 ```
 
 ## TikZ
@@ -690,7 +696,7 @@ IPython extension for using the [python trepan](https://pypi.python.org/pypi?:ac
 To install execute the the following code snippet in an IPython shell or IPython notebook cell:
 
 ```
-    %install_ext https://raw.github.com/rocky/ipython-trepan/master/trepanmagic.py
+    %<deprecated command> https://raw.github.com/rocky/ipython-trepan/master/trepanmagic.py
     %load_ext trepanmagic
 ```
 
@@ -716,7 +722,7 @@ An IPython magic to embed random GIFs from giphy.com
 To install:
 
 ```text
-%install_ext https://raw.githubusercontent.com/AustinRochford/giphy-ipython-magic/master/giphy_magic.py
+%<deprecated command> https://raw.githubusercontent.com/AustinRochford/giphy-ipython-magic/master/giphy_magic.py
 ```
 
 ## S3 Image Magic
@@ -728,7 +734,7 @@ A set of magics that will display images stored in Amazon S3 and save matplotlib
 To install:
 
 ```text
-%install_ext https://github.com/AustinRochford/s3img-ipython-magic/blob/master/s3img_magic.py
+%<deprecated command> https://github.com/AustinRochford/s3img-ipython-magic/blob/master/s3img_magic.py
 ```
 
 ## Autotime
@@ -740,7 +746,7 @@ Times every command.
 Installation:
 
 ```
-%install_ext https://raw.github.com/cpcloud/ipython-autotime/master/autotime.py
+%<deprecated command> https://raw.github.com/cpcloud/ipython-autotime/master/autotime.py
 ```
 
 ## Py_D3
