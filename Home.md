@@ -19,7 +19,7 @@ This wiki contains:
 * A list of [IPython kernels for other languages](wiki/IPython-kernels-for-other-languages)
 * A list of interesting IPython [widgets](wiki/widgets)
 * A list of [Projects using IPython](wiki/Projects-using-IPython)
-* [[A gallery of interesting Jupyter Notebooks]]
+* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) (moved to Jupyter wiki)
 * [[Research at UC Berkeley using IPython]]
 * [[Frequently asked questions]]
 * [Supplementary installation information](wiki/Install:-Index)
