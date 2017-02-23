@@ -1,1 +1,1 @@
-Moved to [a gallery of interesting Jupyter and IPython Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-and-IPython-Notebooks).
+Now at [**A gallery of interesting Jupyter Notebooks**](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) on the Jupyter wiki.
