@@ -1,1 +1,1 @@
-Now at [a gallery of interesting Jupyter notebook](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks).
+Now at [**A gallery of interesting Jupyter Notebooks**](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks).
