@@ -324,7 +324,7 @@ command like so:
 CasperJS is a browser that's written in javascript, so we write javascript code
 to drive it. The Casper browser itself also has a javascript implementation
 (like the ones that come with Firefox and Chrome), and in the test suite we get
-access to those using `this.evaluate`, and it's cousins (`this.theEvaluate`,
+access to those using `this.evaluate`, and it's cousins (`this.thenEvaluate`,
 etc). Additionally, because of the asynchronous / callback nature of everything,
 there are plenty of ``this.then`` calls which define steps in test suite. Part
 of the reason for this is that each step has a timeout (default of 5 or 10
