@@ -766,3 +766,23 @@ Installation
 ```
 pip install mocodo_magic
 ```
+
+## IPython Bell
+
+iPython/Jupyter Notebook magic to notify the programmer when a line/cell has completed execution.
+
+- [Homepage](https://github.com/samwhitehall/ipython-bell/)
+
+Installation
+
+```
+pip install IPythonBell
+```
+
+Usage
+
+```
+%%bell
+import time
+time.sleep(5)
+```
