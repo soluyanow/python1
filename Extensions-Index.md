@@ -245,7 +245,7 @@ Mathematica can be integrated into notebooks using the `IPython-mathematicamagic
 
 [Homepage](https://github.com/bjedwards/IPython-mathematicamagic-extension)
 
-## Matlab
+## MATLAB
 
 The [Python MATLAB bridge](https://github.com/arokem/python-matlab-bridge)  enables calling of MATLAB code and functions from an IPython session and adds a `%%matlab` cell magic, which allows embedding matlab code in IPython notebooks.
 
@@ -255,6 +255,8 @@ Examples:
 
 * [pymatbridge](http://nbviewer.ipython.org/github/arokem/python-matlab-bridge/blob/master/pymatbridge.ipynb)
 * [matlab magic](http://nbviewer.ipython.org/github/arokem/python-matlab-bridge/blob/master/matlab_magic.ipynb)
+
+[imatlab](https://github.com/imatlab/imatlab) is a Jupyter kernel for MATLAB.
 
 ## IDL
 
