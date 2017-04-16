@@ -410,6 +410,11 @@ Small tool to convert an IPython notebook to html and upload the result to your 
 
 [Maybe this is not the appropriate place for this but I couldn't find a better place]
 
+## ipython-autoimport
+Automagically import missing modules into the user namespace.
+
+[Homepage](https://github.com/anntzer/ipython-autoimport)
+
 ## SQLite magics
 
 IPython magics to run SQL and see the result in table format.
