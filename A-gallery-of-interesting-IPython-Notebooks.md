@@ -3,7 +3,7 @@ Now at [**A gallery of interesting Jupyter Notebooks**](https://github.com/jupyt
 ## IPYTHON Notebook
 ### IPYTHON Notebook
 
->Editing A gallery of interesting IPython Notebooks
->Editing A gallery of interesting IPython Notebooks
->Editing A gallery of interesting IPython Notebooks
-Editing A gallery of interesting IPython Notebooks
+>Editing A gallery of interesting IPython Notebooks  
+>Editing A gallery of interesting IPython Notebooks  
+>Editing A gallery of interesting IPython Notebooks  
+Editing A gallery of interesting IPython Notebooks  
