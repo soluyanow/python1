@@ -5,7 +5,7 @@ text.
 Here is a magic command to give the same behavior to Python's
 built-in (pydoc) help command (tested in Python 2.7):
 
-<pre>
+```
 from IPython.core import page
 def magic_help(self, s):
     """Retrieve the pydoc help for an object and display it through a pager.
@@ -19,12 +19,12 @@ def magic_help(self, s):
 
 ip = get_ipython()
 ip.define_magic("help",magic_help)
-</pre>
+```
 
 After running this code from the interactive prompt or via your
 local config settings, you can send help through the pager like so:
 
-<pre>
+```
 import re
 %help re
-</pre>
+```
