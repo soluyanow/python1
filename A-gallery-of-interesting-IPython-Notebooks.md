@@ -3,10 +3,7 @@ Now at [**A gallery of interesting Jupyter Notebooks**](https://github.com/jupyt
 ## IPYTHON Notebook
 ### IPYTHON Notebook
 
->Editing A gallery of interesting IPython Notebooks  
->Editing A gallery of interesting IPython Notebooks  
->Editing A gallery of interesting IPython Notebooks  
-Editing A gallery of interesting IPython Notebooks  
-    train_df = pd.read_csv('../input/train.csv')  
-    test_df = pd.read_csv('../input/test.csv')  
-    combine = [train_df, test_df]
+>Editing A gallery of interesting IPython Notebooks
+>Editing A gallery of interesting IPython Notebooks
+>Editing A gallery of interesting IPython Notebooks
+Editing A gallery of interesting IPython Notebooks
