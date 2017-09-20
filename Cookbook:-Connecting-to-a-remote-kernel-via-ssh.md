@@ -2,7 +2,7 @@ This recipe explains how to set up a kernel on a remote machine (server), and in
 
 ## When server is visible from the client
 
-Start a kernel on machine `server`, using either `ipython kernel` or `ipython qtconsole`:
+For the remainder of this wiki page, `server` refers to the Host name specified in your ssh config. Start a kernel on machine `server`, using either `ipython kernel` or `ipython qtconsole`:
 
     [server] $ jupyter --runtime-dir
     /run/user/1000/jupyter
@@ -43,10 +43,10 @@ If the automatic tunneling doesn't work for some reason, you can set up your own
       "iopub_port": 49958
     }
     [client] $ for port in $(cat kernel-1234.json | grep '_port' | grep -o '[0-9]\+'); do
-    > ssh kerbin -f -N -L $port:127.0.0.1:$port
+    > ssh server -f -N -L $port:127.0.0.1:$port
     > done
 
-(the `-f -N` just mean "run in the background, and don't do anything but tunnel")
+Notes: the `-f -N` just mean "run in the background, and don't do anything but tunnel".
 
 That is to say, if *on client* you now try to connect to localhost:55460, the connection will be forwarded to localhost:55460 *on server*, etc.
 
