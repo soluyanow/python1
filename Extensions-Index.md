@@ -2,7 +2,7 @@ Extensions you can install for IPython are listed here. To create a new extensio
 
 The `install_ext` magic has been removed from IPython.
 Extensions should be published as Python packages, and installed with `pip`.
-# This breaks a lot of notbooks and forces users to look up why the notebook does not work. Very convenient.
+### This breaks a lot of notebooks and forces users to look up why the notebook does not work. Very convenient.
 
 ## ActiveState Code Recipes magics
 
