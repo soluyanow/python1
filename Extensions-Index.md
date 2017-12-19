@@ -40,6 +40,17 @@ Installation:
 Download from: https://raw.githubusercontent.com/Gr1N/asyncio-ipython-magic/master/asynciomagic.py
 ```
 
+## BeakerX
+BeakerX is a collection of kernels and extensions to the Jupyter interactive computing environment. It provides JVM support, interactive plots, tables, forms, publishing, and more. BeakerX supports:
+
+* Groovy, Scala, Clojure, Kotlin, Java, and SQL, including many magics;
+* Widgets for time-series plotting, tables, forms, and more (there are Python and JavaScript APIs in addition to the JVM languages);
+* One-click publication with interactive plots and tables, and
+* Jupyter Lab (alpha quality).
+
+[Homepage](http://BeakerX.com)
+
+
 ## base16-ipython-matplotlibrc
 Enables matplotlib themes that match base16 [notebook themes](https://github.com/nsonnad/base16-ipython-notebook).
 
