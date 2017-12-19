@@ -41,7 +41,7 @@ Download from: https://raw.githubusercontent.com/Gr1N/asyncio-ipython-magic/mast
 ```
 
 ## BeakerX
-BeakerX is a collection of kernels and extensions to the Jupyter interactive computing environment. It provides JVM support, interactive plots, tables, forms, publishing, and more. BeakerX supports:
+[BeakerX](http://BeakerX.com) is a collection of kernels and extensions to the Jupyter interactive computing environment. It provides JVM support, interactive plots, tables, forms, publishing, and more. BeakerX supports:
 
 * Groovy, Scala, Clojure, Kotlin, Java, and SQL, including many magics;
 * Widgets for time-series plotting, tables, forms, and more (there are Python and JavaScript APIs in addition to the JVM languages);
