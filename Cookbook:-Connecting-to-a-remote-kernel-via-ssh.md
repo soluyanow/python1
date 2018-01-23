@@ -16,7 +16,11 @@ Now we need to get that connection file to `client`:
 
     [client] $ scp server:/run/user/1000/jupyter/kernel-1234.json ./
 
-(*NOTE:* In previous versions it may be in `/Users/you/.ipython/profile_default/security/kernel-1234.json`.)
+(*NOTE:* 
+
+In previous versions it may be in `/Users/you/.ipython/profile_default/security/kernel-1234.json`.
+In Windows its located in `'C:\Users\<username>\AppData\Roaming\jupyter\runtime\kernel-1234.json'. 
+The location can be found by following the procedure here on any OS: https://stackoverflow.com/a/35094772/4752883)
 
 and the next time we start a frontend (`ipython console`, `qtconsole`, etc.), just add `--ssh server`:
 
