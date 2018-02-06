@@ -528,7 +528,7 @@ More info: http://pypi.python.org/pypi/grasp/
 
 ## breakpoint
 
-Run code cells in an iPython notebook until a breakpoint is encountered.
+Run code cells in an IPython notebook until a breakpoint is encountered.
 
 See:
 
@@ -788,7 +788,7 @@ pip install mocodo_magic
 
 ## IPython Bell
 
-iPython/Jupyter Notebook magic to notify the programmer when a line/cell has completed execution.
+IPython/Jupyter Notebook magic to notify the programmer when a line/cell has completed execution.
 
 - [Homepage](https://github.com/samwhitehall/ipython-bell/)
 
