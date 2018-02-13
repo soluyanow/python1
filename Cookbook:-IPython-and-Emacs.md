@@ -1,3 +1,10 @@
+Everything below seems to be a bit outdated (YMMV).
+
+But active development of Emacs using remote IPython kernels can be found in the [scimax](https://github.com/jkitchin/scimax/blob/ob-ipython-upstream/scimax-ipython.org) pages and in particular
+[this issue](https://github.com/jkitchin/scimax/issues/114#issuecomment-362156109]).
+
+----
+
 [http://www.emacswiki.org/emacs/PythonMode#toc10]
 
 rileyrgdev AT gmail DOT net
