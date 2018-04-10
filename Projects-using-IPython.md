@@ -7,7 +7,7 @@ entry](http://ipython.org/citing.html).
 List of available kernels
 -------------------------
 
-The list of kernels for other languages has been moved [here](IPython kernels for other languages).
+The list of kernels for other languages has been moved [here](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels).
 
 Scientific computing projects
 -----------------------------
