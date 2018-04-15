@@ -804,3 +804,16 @@ Usage
 import time
 time.sleep(5)
 ```
+## Jupyter Spaces
+
+Jupyter Spaces allows to work with parallel sub-namespaces available within the user namespace.
+It is designed to be used in Jupyter notebooks.
+
+- [Homepage](https://github.com/davidesarra/jupyter_spaces)
+- [Documentation](https://github.com/davidesarra/jupyter_spaces/blob/master/README.md)
+
+Installation:
+
+```
+pip install jupyter_spaces
+```
