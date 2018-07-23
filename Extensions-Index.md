@@ -817,3 +817,12 @@ Installation:
 ```
 pip install jupyter_spaces
 ```
+
+## jupyter_abc
+
+`jupyter_abc` makes it easy to render [ABC](http://abcnotation.com/) markup as graphical music notation in a Jupyter notebook.
+
+For rendering, the extension uses the [abcjs](https://abcjs.net/) Javascript library by Paul Rosen and Gregory Dyke.
+
+- [Homepage](https://github.com/akaihola/jupyter_abc)
+- [Documentation](https://github.com/akaihola/jupyter_abc/blob/master/README.rst)
