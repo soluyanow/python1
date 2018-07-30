@@ -145,9 +145,24 @@ Scientific computing projects
     changes and timers. Use it to generate automated reports and analysis
     for experimental data sets, output together with the code that made them.
 
--   The [Spyder](https://code.google.com/p/spyderlib/) integrates the
-    IPython Qt console, and IPdb for debugging. It also handles the connection
-    to remote kernels.
+-   [Spyder](https://www.spyder-ide.org/) is a cross-platform PyQt-based IDE
+    combining the editing, analysis, debugging and profiling functionality of
+    a software development tool with the data exploration, interactive execution,
+    deep inspection and rich visualization capabilities of a scientific
+    environment like MATLAB or Rstudio. Spyder is fully integrated with
+    IPython and Qtconsole through its built in abilities to launch and work with
+    [IPython Consoles](https://docs.spyder-ide.org/ipythonconsole.html),
+    and IPdb is linked to its
+    [GUI debugger](https://docs.spyder-ide.org/debugging.html).
+    Spyder's IPython consoles also supports a number of configurable options,
+  , can render plots inline with Matplotlib, and can easily connect to native,
+    local or remote external kernels with full feature support,
+    including a Variable Explorer for rich inspection and editing of objects
+    in the IPython environment, a [Help viewer](https://docs.spyder-ide.org/help.html)
+    which can retrieve and rich documentation from objects in the console,
+    advanced IPython autocompletion and introspection functionality and a
+    connection with Spyder's [Editor](https://docs.spyder-ide.org/editor.html)
+    to run lines, selections, code cells or files.
 
 -   [scikit-bio](http://scikit-bio.org) is an open-source, BSD-licensed,
     python package providing data structures, algorithms, and educational
